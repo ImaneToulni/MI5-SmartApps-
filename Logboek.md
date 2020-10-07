@@ -31,5 +31,8 @@
 * Mockup aanpassen waar nodig
 * Mockup bespreken
 * Logo ontwerpen
+* Header, Footer, Home component genereren 
+* Logo in het project toeoegen 
+* Bulma (framework) in het project toegevoegd, maar werkt niet volledig. Ik moet dit nog onderzoeken en oplossen.
 
 # Totale duur : .. uur .. minuten
