@@ -30,5 +30,6 @@
 * Mockup aanmaken om een beter zicht te hebben van hoe onze PWA eruit zou zien aan de hand van wat de week ervoor besproken werd
 * Mockup aanpassen waar nodig
 * Mockup bespreken
+* Logo ontwerpen
 
 # Totale duur : .. uur .. minuten
