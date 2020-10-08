@@ -11,18 +11,18 @@
 * Verschillende ideeën uitwisselen van hoe de app het best eruit zou zien
 * Voor en nadelen wegen van de verschillende frameworks + documentatie bekijken en vergelijken, etc. We kozen uiteindelijk voor Angular Cli 
 * Video's over Angular cli volgen: 
--- Introduction: https://scotch.io/courses/build-your-first-angular-website/introduction
--- Starting an Angular app with Angular: https://scotch.io/courses/build-your-first-angular-website/starting-an-angular-app-with-the-angular-cli
--- Angular app Tour: https://scotch.io/courses/build-your-first-angular-website/angular-app-tour
--- Angular CLI serving and building for production: https://scotch.io/courses/build-your-first-angular-website/angular-cli-serving-and-building-for-production
+  - Introduction: https://scotch.io/courses/build-your-first-angular-website/introduction
+  - Starting an Angular app with Angular: https://scotch.io/courses/build-your-first-angular-website/starting-an-angular-app-with-the-angular-cli
+  - Angular app Tour: https://scotch.io/courses/build-your-first-angular-website/angular-app-tour
+  - Angular CLI serving and building for production: https://scotch.io/courses/build-your-first-angular-website/angular-cli-serving-and-building-for-production
 * Het idee en concept aan de docent voorstellen + werd goedgekeurd 
 * Naam van de app is nu 'YouPostIt'
 * Service workies doornemen via  https://serviceworkies.com/
 * Angular downloaden (aangezien ik een nieuw laptop heb, moest ik eerst andere zaken downloaden o.a:
-- Install sudo on mac
-- downloaden en installeren van Visual Studio Code
-- downloaden en installeren van Node.js
-- downloaden en installeren van Angular CLI
+  - Install sudo on mac
+  - downloaden en installeren van Visual Studio Code
+  - downloaden en installeren van Node.js
+  - downloaden en installeren van Angular CLI
 
 ## Week 3 - 
 ** Datum 05/10/2020 - 11/10/2020
