@@ -30,9 +30,13 @@
 * Mockup aanmaken om een beter zicht te hebben van hoe onze PWA eruit zou zien aan de hand van wat de week ervoor besproken werd
 * Mockup aanpassen waar nodig
 * Mockup bespreken
-* Logo ontwerpen
+* Logo ontwerpen + photoshop gebruiken voor een zwarte achtergrond 
 * Header, Footer, Home component genereren 
-* Logo in het project toeoegen 
+* Logo in het project toevoegen 
 * Bulma (framework) in het project toegevoegd, maar werkt niet volledig. Ik moet dit nog onderzoeken en oplossen.
+* Probleem met bulma opgelost (PATH was niet correct waardoor het niet met css werkte) 
+* Uittesten van de verschillende klassen om te zien of bulma werkt => werkte perfect
+* Layout eerste pagina maken (Logo plaatsen + tekst + progressive bar)door middel van bulma klassen 
+* Login component genereren 
 
 # Totale duur : .. uur .. minuten
