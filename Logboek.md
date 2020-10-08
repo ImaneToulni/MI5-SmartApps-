@@ -11,10 +11,10 @@
 * Verschillende ideeën uitwisselen van hoe de app het best eruit zou zien
 * Voor en nadelen wegen van de verschillende frameworks + documentatie bekijken en vergelijken, etc. We kozen uiteindelijk voor Angular Cli 
 * Video's over Angular cli volgen: 
-- Introduction: https://scotch.io/courses/build-your-first-angular-website/introduction
-- Starting an Angular app with Angular: https://scotch.io/courses/build-your-first-angular-website/starting-an-angular-app-with-the-angular-cli
-- Angular app Tour: https://scotch.io/courses/build-your-first-angular-website/angular-app-tour
-- Angular CLI serving and building for production: https://scotch.io/courses/build-your-first-angular-website/angular-cli-serving-and-building-for-production
+-- Introduction: https://scotch.io/courses/build-your-first-angular-website/introduction
+-- Starting an Angular app with Angular: https://scotch.io/courses/build-your-first-angular-website/starting-an-angular-app-with-the-angular-cli
+-- Angular app Tour: https://scotch.io/courses/build-your-first-angular-website/angular-app-tour
+-- Angular CLI serving and building for production: https://scotch.io/courses/build-your-first-angular-website/angular-cli-serving-and-building-for-production
 * Het idee en concept aan de docent voorstellen + werd goedgekeurd 
 * Naam van de app is nu 'YouPostIt'
 * Service workies doornemen via  https://serviceworkies.com/
