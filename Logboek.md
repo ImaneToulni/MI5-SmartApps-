@@ -24,7 +24,7 @@
   - downloaden en installeren van Node.js
   - downloaden en installeren van Angular CLI
 
-## Week 3 - 7 uur 5 min
+## Week 3 - 8 uur 15 min
 ** Datum 05/10/2020 - 11/10/2020
 * Balsamiq downloaden en installeren .. 10 min 
 * Mockup aanmaken om een beter zicht te hebben van hoe onze PWA eruit zou zien aan de hand van wat de week ervoor besproken werd .. 2 uur
@@ -41,5 +41,8 @@
 * Aan de docent tonen wat we hebben gemaakt + concept nog is uitleggen ideeen uitgewisseld om zich te distancieren van andere apps .. 20 min 
 * Bespreking van wat we tegen volgende week moeten doen + we hebben bepaald om de database  in firebase te maken .. 20 min 
 * Probleem met het pushen van de code op github (is te zwaar) > we zoeken een oplossing hiervoor (vb; pushen via github desktop, etc) .. 20 min 
+* Firebase in gang zetten .. 10 min 
+* Probleem met github verder onderzoeken en oplossen .. 1 uur
 
-# Totale duur : 11 uur 15 minuten
+
+# Totale duur : 12 uur 25 minuten
