@@ -47,9 +47,11 @@
 ## Week 4 - ..
 ** 12/10/2020 - 18/10/2020
 * service workies afwerken .. 
-* video's in verband met angular.cli doornemen om het concept en manier van coderen goed te begrijpen (website: scotch.io) .. 
+* video's in verband met angular.cli doornemen om het concept en manier van coderen goed te begrijpen (website: scotch.io) .. 2 uur 
 * firebase (database maken) .. 
 * verder werken aan de login pagina .. 
 * routes maken tussen de verschillende pagina's .. 
+* lay-out aanpassen .. 
+* werken aan de login .. 
 
 # Totale duur : 12 uur 25 minuten
