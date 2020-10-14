@@ -51,7 +51,7 @@
 * firebase (database maken) .. 
 * verder werken aan de login pagina .. 
 * routes maken tussen de verschillende pagina's .. 
-* lay-out aanpassen .. 
+* lay-out aanpassen + opzoekwerk voor link .. 30 min 
 * werken aan de login .. 
 
 # Totale duur : 12 uur 25 minuten
