@@ -44,7 +44,7 @@
 * Firebase in gang zetten .. 10 min 
 * Probleem met github verder onderzoeken en oplossen .. 1 uur
 
-## Week 4 - 5 uur 15
+## Week 4 - 7 uur 40
 ** 12/10/2020 - 18/10/2020
 * video's in verband met angular.cli doornemen om het concept en manier van coderen goed te begrijpen (website: scotch.io) .. 2 uur 
 * firebase met angular linken maar we hebben een probleem ondervonden + geprobeerd om op te lossen ..  1 uur
@@ -52,9 +52,16 @@
 * lay-out aanpassen + opzoekwerk voor link .. 30 min 
 * branches aanmaken + het concept ervan begrijpen en uittesten .. 45 min 
 * meeting met docent + vragen stellen ivm firebase en de branches .. 30 min
-* index files kopieren + 
+* index files kopieren .. 5 min 
 * service workies afwerken .. 
-* routes maken tussen de verschillende pagina's .. 
+* routes maken tussen de verschillende pagina's (nog niet af) .. 2 uur  
+* home page verwijderen => onnodig op dit ogenblik + renamen van de andere componenten met gepaste namen .. 15 min
+* nieuwe component aanmaken .. 5 min 
 
+## Week 5 - ..
+** 19/10/2020 - 25/10/2020
+* ...
+* ...
+* ...
 
-# Totale duur : 12 uur 25 minuten
+# Totale duur : 20 uur 05 minuten
