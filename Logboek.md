@@ -44,14 +44,17 @@
 * Firebase in gang zetten .. 10 min 
 * Probleem met github verder onderzoeken en oplossen .. 1 uur
 
-## Week 4 - ..
+## Week 4 - 5 uur 15
 ** 12/10/2020 - 18/10/2020
-* service workies afwerken .. 
 * video's in verband met angular.cli doornemen om het concept en manier van coderen goed te begrijpen (website: scotch.io) .. 2 uur 
-* firebase (database maken) .. 
-* verder werken aan de login pagina .. 
-* routes maken tussen de verschillende pagina's .. 
+* firebase met angular linken maar we hebben een probleem ondervonden + geprobeerd om op te lossen ..  1 uur
+* aanpassingen brengen in de login pagina .. 30 min
 * lay-out aanpassen + opzoekwerk voor link .. 30 min 
-* werken aan de login .. 
+* branches aanmaken + het concept ervan begrijpen en uittesten .. 45 min 
+* meeting met docent + vragen stellen ivm firebase en de branches .. 30 min
+* index files kopieren + 
+* service workies afwerken .. 
+* routes maken tussen de verschillende pagina's .. 
+
 
 # Totale duur : 12 uur 25 minuten
