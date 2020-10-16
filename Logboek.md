@@ -1,5 +1,5 @@
 # Logboek Smart Apps (MI5) - Imane Toulni
-## Link naar project: https://github.com/Driss001/Smart-Apps-YoutPostIt
+## Link naar project: https://github.com/Driss001/YouPostIt-Smart-Apps
 
 ## Week 1 - 5 min 
 ** Datum: 25/09/2020
