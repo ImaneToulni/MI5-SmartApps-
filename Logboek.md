@@ -63,7 +63,7 @@
 ** 19/10/2020 - 25/10/2020
 * Vragen gesteld ivm met service workies, firebase en templateUrl .. 15 min
 * Layout van de nav veranderen en fixed bottom .. 30 min
-* Verder zoeken hoe we de template kunnen veranderen + nieuwe component aanmaken voor templateUrl + fix pushes (behind) + nieuwe template aanmaken en deze vervangen (nog niet af => nog aan het onderzoeken hoe dit werkt en wat de oplossing hiervoor is) + first & second exec on the other component .. 4 uur
+* Verder zoeken hoe we de template kunnen veranderen + nieuwe component aanmaken voor templateUrl + fix pushes (behind) + nieuwe template aanmaken en deze vervangen (nog niet af => nog aan het onderzoeken hoe dit werkt en wat de oplossing hiervoor is) + first & second exec on the other component (event emitter) .. 4 uur
 
 
 # Totale duur : 30 uur 50 minuten
