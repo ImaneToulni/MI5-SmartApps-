@@ -65,7 +65,7 @@
 * Verder zoeken hoe we de template kunnen veranderen + nieuwe component aanmaken voor templateUrl + fix pushes (behind) + nieuwe template aanmaken en deze vervangen (nog niet af => nog aan het onderzoeken hoe dit werkt en wat de oplossing hiervoor is) + first & second exec on the other component (event emitter) .. 4 uur
 * Verder werken aan templateUrl + opzoekwerk verrichten + firebase config in app.module toevoegen .. 4 uur 
 
-## Week 6 - 6 uur 20 min  
+## Week 6 - 10 uur 20 min  
 ** 26/10/2020 - 01/11/2020
 * Vragen stellen aan de docent + probleem voorgesteld waarop we feedback kregen .. 20 min 
 * Verder werken aan de login pagina (templateURL, werkt niet volledig hoe het zou moeten (navbar aanpassen login en logout) met querySelectorAll en code kort documenteren + status controleren van de gebruiker (ingelogd of niet, en naar het juiste pagina doorsturen) .. 2 uur
@@ -75,6 +75,8 @@
   - https://firebase.google.com/docs/firestore/manage-data/structure-data
   - https://www.youtube.com/watch?v=4V4g-z1hRIU
   - https://fireship.io/snippets/install-angularfire/
-* 
+* Opzoeken hoe dat ik iconen in het project kan toevoegen en uittesten + en erros die ik tegenkwam oplossen door opzoekwerk (er was een probleem met Bulma + ik miste de font).. 4 uur 
+ - https://stackoverflow.com/questions/47682110/bulma-icon-not-showing-up
+ - https://bulma.io/documentation/elements/icon/
   
-# Totale duur : 41 uur 10 minuten
+# Totale duur : 45 uur 10 minuten
