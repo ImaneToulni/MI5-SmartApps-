@@ -74,6 +74,7 @@
   - https://github.com/angular/angularfire/blob/master/docs/install-and-setup.md
   - https://firebase.google.com/docs/firestore/manage-data/structure-data
   - https://www.youtube.com/watch?v=4V4g-z1hRIU
+  - https://fireship.io/snippets/install-angularfire/
 * 
   
 # Totale duur : 41 uur 10 minuten
