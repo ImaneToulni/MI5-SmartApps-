@@ -75,8 +75,14 @@
   - https://firebase.google.com/docs/firestore/manage-data/structure-data
   - https://www.youtube.com/watch?v=4V4g-z1hRIU
   - https://fireship.io/snippets/install-angularfire/
-* Opzoeken hoe dat ik iconen in het project kan toevoegen en uittesten + en erros die ik tegenkwam oplossen door opzoekwerk (er was een probleem met Bulma + ik miste de font).. 4 uur 
- - https://stackoverflow.com/questions/47682110/bulma-icon-not-showing-up
- - https://bulma.io/documentation/elements/icon/
+* Opzoeken hoe dat ik iconen in het project kan toevoegen en uittesten + en erros die ik tegenkwam oplossen door opzoekwerk (er was een probleem met Bulma + ik miste de font + lijst van iconen opgezocht en gebruikt).. 4 uur 
+  - https://stackoverflow.com/questions/47682110/bulma-icon-not-showing-up
+  - https://bulma.io/documentation/elements/icon/
+  - https://fontawesome.com/icons?d=gallery
+ 
+ ## Week 7 - .. 
+ ** 02/11/2020 - 08/11/2020
+ * Onderzoeken welke kleur het best met ons project past + hierover discussieren mer Driss (thema kleur (vak: Usability) op het project toepassen, gebruik makend van Paletton) .. 
+   - https://paletton.com/#uid=15h0u0kllll3+rYcFoEu0i1P3eI
   
 # Totale duur : 45 uur 10 minuten
