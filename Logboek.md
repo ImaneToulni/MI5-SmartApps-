@@ -58,12 +58,22 @@
 * nieuwe component aanmaken .. 5 min 
 * verder gewerkt an firebase en de inputs van de login en register pagina inlezen .. 4 uur
 
-
-## Week 5 - 4 uur 45 min
+## Week 5 - 8 uur 45 min
 ** 19/10/2020 - 25/10/2020
 * Vragen gesteld ivm met service workies, firebase en templateUrl .. 15 min
 * Layout van de nav veranderen en fixed bottom .. 30 min
 * Verder zoeken hoe we de template kunnen veranderen + nieuwe component aanmaken voor templateUrl + fix pushes (behind) + nieuwe template aanmaken en deze vervangen (nog niet af => nog aan het onderzoeken hoe dit werkt en wat de oplossing hiervoor is) + first & second exec on the other component (event emitter) .. 4 uur
+* Verder werken aan templateUrl + opzoekwerk verrichten + firebase config in app.module toevoegen .. 4 uur 
 
-
-# Totale duur : 30 uur 50 minuten
+## Week 6 - 6 uur 20 min  
+** 26/10/2020 - 01/11/2020
+* Vragen stellen aan de docent + probleem voorgesteld waarop we feedback kregen .. 20 min 
+* Verder werken aan de login pagina (templateURL, werkt niet volledig hoe het zou moeten (navbar aanpassen login en logout) met querySelectorAll en code kort documenteren + status controleren van de gebruiker (ingelogd of niet, en naar het juiste pagina doorsturen) .. 2 uur
+* Opzoekwerk angularfire + cloud firestore en realtime database vergelijken, en uitzoeken welk het best voor ons project past + zelf geprobeerd om angular authentication toe te voegen, maar lukte niet dus hebben we lang zitten zoeken naar een video die ons zou kunnen helpen ..  4 uur 
+  - https://firebaseopensource.com/projects/firebase/angularfire/
+  - https://github.com/angular/angularfire/blob/master/docs/install-and-setup.md
+  - https://firebase.google.com/docs/firestore/manage-data/structure-data
+  - https://www.youtube.com/watch?v=4V4g-z1hRIU
+* 
+  
+# Totale duur : 41 uur 10 minuten
