@@ -80,9 +80,12 @@
   - https://bulma.io/documentation/elements/icon/
   - https://fontawesome.com/icons?d=gallery
  
- ## Week 7 - .. 
+ ## Week 7 - 2 uur 15 min  
  ** 02/11/2020 - 08/11/2020
- * Onderzoeken welke kleur het best met ons project past + hierover discussieren mer Driss (thema kleur (vak: Usability) op het project toepassen, gebruik makend van Paletton) .. 
+ * Onderzoeken welke kleur het best met ons project past + hierover discussieren met Driss (thema kleur (vak: Usability) op het project toepassen, gebruik makend van Paletton) + keuze van de kleur heeft een betekenis, het werd niet zomaar gekozen .. 2 uur 
    - https://paletton.com/#uid=15h0u0kllll3+rYcFoEu0i1P3eI
+ * SEO verbeteren (zowel mobile als desktop) en alt attribuut aan afbdeeldingen geven, betere naam aan de routerlink geven ipv click hier, meta-description toevoegen, waardoor SEO gestegen is .. 15 min 
+   - https://web.dev/link-text/?utm_source=lighthouse&utm_medium=devtools
+   - https://web.dev/meta-description/?utm_source=lighthouse&utm_medium=devtools
   
-# Totale duur : 45 uur 10 minuten
+# Totale duur : 47 uur 25 minuten
