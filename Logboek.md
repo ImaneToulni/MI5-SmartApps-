@@ -80,7 +80,7 @@
   - https://bulma.io/documentation/elements/icon/
   - https://fontawesome.com/icons?d=gallery
  
- ## Week 7 - 6 uur 15 min  
+ ## Week 7 - 8 uur 15 min  
  ** 02/11/2020 - 08/11/2020
  * Onderzoeken welke kleur het best met ons project past + hierover discussieren met Driss (thema kleur (vak: Usability) op het project toepassen, gebruik makend van Paletton) + keuze van de kleur heeft een betekenis, het werd niet zomaar gekozen .. 2 uur 
    - https://paletton.com/#uid=15h0u0kllll3+rYcFoEu0i1P3eI
@@ -88,5 +88,6 @@
    - https://web.dev/link-text/?utm_source=lighthouse&utm_medium=devtools
    - https://web.dev/meta-description/?utm_source=lighthouse&utm_medium=devtools
  * Components toevoegen (profile & notification) + niet gebruikte components verwijderen + icons toevoegen op de feed pagina + routes toevoegen + layout starten voor notifications, profile & admin + database helemaal uitschetsen en telkens aanpassingen brengen aan de ERD .. 4 uur  
+ * layout van user profile aanmaken + ervoor zorgen dat een afbeelding vanop de desktop gekozen kan worden, wel nog niet gelukt om de afbeelding te visualiseren + opzoekwerk verricht voor user profile en deels voor notifications .. 2 uur. 
   
-# Totale duur : 51 uur 25 minuten
+# Totale duur : 53 uur 25 minuten
