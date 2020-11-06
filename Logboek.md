@@ -90,5 +90,6 @@
  * Components toevoegen (profile & notification) + niet gebruikte components verwijderen + icons toevoegen op de feed pagina + routes toevoegen + layout starten voor notifications, profile & admin + database helemaal uitschetsen en telkens aanpassingen brengen aan de ERD .. 4 uur  
  * layout van user profile aanmaken + ervoor zorgen dat een afbeelding vanop de desktop gekozen kan worden, wel nog niet gelukt om de afbeelding te visualiseren + opzoekwerk verricht voor user profile en deels voor notifications .. 3 uur
    - https://academind.com/learn/angular/snippets/angular-image-upload-made-easy/
+ * line break element wegwerken door margins te gebruiken in angular + lay-out van notifications aanmaken ..
   
 # Totale duur : 54 uur 25 minuten
