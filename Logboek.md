@@ -80,7 +80,7 @@
   - https://bulma.io/documentation/elements/icon/
   - https://fontawesome.com/icons?d=gallery
  
- ## Week 7 - 9 uur 15 min  
+ ## Week 7 - 6 uur 15 min  
  ** 02/11/2020 - 08/11/2020
  * Onderzoeken welke kleur het best met ons project past + hierover discussieren met Driss (thema kleur (vak: Usability) op het project toepassen, gebruik makend van Paletton) + keuze van de kleur heeft een betekenis, het werd niet zomaar gekozen .. 2 uur 
    - https://paletton.com/#uid=15h0u0kllll3+rYcFoEu0i1P3eI
@@ -88,8 +88,16 @@
    - https://web.dev/link-text/?utm_source=lighthouse&utm_medium=devtools
    - https://web.dev/meta-description/?utm_source=lighthouse&utm_medium=devtools
  * Components toevoegen (profile & notification) + niet gebruikte components verwijderen + icons toevoegen op de feed pagina + routes toevoegen + layout starten voor notifications, profile & admin + database helemaal uitschetsen en telkens aanpassingen brengen aan de ERD .. 4 uur  
+
+ ## Week 8 - 7 uur 
+ ** 09/11/2020 - 15/11/2020
  * layout van user profile aanmaken + ervoor zorgen dat een afbeelding vanop de desktop gekozen kan worden, wel nog niet gelukt om de afbeelding te visualiseren + opzoekwerk verricht voor user profile en deels voor notifications .. 3 uur
    - https://academind.com/learn/angular/snippets/angular-image-upload-made-easy/
- * line break element wegwerken door margins te gebruiken in angular + lay-out van notifications aanmaken ..
-  
-# Totale duur : 54 uur 25 minuten
+ * line break element wegwerken door margins te gebruiken in angular + verder werken aan de lay-out (notification, etc) .. 2 uur
+ * Opzoekwerk om probleem met firebase te debuggen (werkt nog niet) .. 2 uur 
+ 
+ ## Week 9 - 3 uur  
+ ** 16/11/2020 - 22/11/2020
+ * opzoekwerk verrichten voor firebase + debuggen met Driss (nog niet af) + de lay-out van de registratiepagina wordt niet meer getoond sinds dat we firebase in het project toegevoegd hebben.. 3 uur 
+ 
+# Totale duur : 61 uur 25 minuten
