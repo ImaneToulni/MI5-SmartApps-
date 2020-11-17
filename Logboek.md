@@ -99,5 +99,8 @@
  ## Week 9 - 3 uur  
  ** 16/11/2020 - 22/11/2020
  * opzoekwerk verrichten voor firebase + debuggen met Driss (nog niet af) + de lay-out van de registratiepagina wordt niet meer getoond sinds dat we firebase in het project toegevoegd hebben.. 3 uur 
- 
+    - https://stackoverflow.com/questions/62752050/firebase-commonjs-or-amd-dependencies-can-cause-optimization-bailouts
+    - https://stackoverflow.com/questions/62592903/upgrading-to-angular-10-fix-commonjs-or-amd-dependencies-can-cause-optimizatio/62604034#62604034
+    - https://stackoverflow.com/questions/55241779/nullinjectorerror-no-provider-for-injectiontoken-angularfire2-app-options
+
 # Totale duur : 61 uur 25 minuten
