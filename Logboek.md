@@ -96,11 +96,14 @@
  * line break element wegwerken door margins te gebruiken in angular + verder werken aan de lay-out (notification, etc) .. 2 uur
  * Opzoekwerk om probleem met firebase te debuggen (werkt nog niet) .. 2 uur 
  
- ## Week 9 - 3 uur  
+ ## Week 9 - 4 uur  
  ** 16/11/2020 - 22/11/2020
  * opzoekwerk verrichten voor firebase + debuggen met Driss (nog niet af) + de lay-out van de registratiepagina wordt niet meer getoond sinds dat we firebase in het project toegevoegd hebben.. 3 uur 
     - https://stackoverflow.com/questions/62752050/firebase-commonjs-or-amd-dependencies-can-cause-optimization-bailouts
     - https://stackoverflow.com/questions/62592903/upgrading-to-angular-10-fix-commonjs-or-amd-dependencies-can-cause-optimizatio/62604034#62604034
     - https://stackoverflow.com/questions/55241779/nullinjectorerror-no-provider-for-injectiontoken-angularfire2-app-options
+ * bug fixed (path) + lay-out updaten .. 1 uur 
+    - https://stackoverflow.com/questions/51035096/error-in-multi-styles-css-in-angular-6
+    
 
-# Totale duur : 61 uur 25 minuten
+# Totale duur : 62 uur 25 minuten
