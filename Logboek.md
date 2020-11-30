@@ -106,5 +106,7 @@
     - https://stackoverflow.com/questions/51035096/error-in-multi-styles-css-in-angular-6
     - https://stackoverflow.com/questions/42341927/font-awesome-icon-size-not-increasing/42341987#:~:text=font%2Dawesome%20icons%20are%20texts,size%20of%20font%2Dawesome%20icons.&text=.io%2Fexamples%2F-,To%20increase%20icon%20sizes%20relative%20to%20their%20container%2C%20use%20the,%2C%20or%20fa%2D5x%20classes.
     
-
+## W10
+* bugs oplossen angular material + path authentcation service :
+    - https://stackoverflow.com/questions/48560479/angular-material-progress-spinner-and-progress-bar-doesnt-show
 # Totale duur : 62 uur 25 minuten
