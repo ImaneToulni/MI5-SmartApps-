@@ -1,9 +1,14 @@
 # Logboek Smart Apps (MI5) - Imane Toulni
 ## Link naar project: https://github.com/Driss001/YouPostIt-Smart-Apps
 
-## Week 1 - 5 min 
+## Week 1 - 15 min 
 ** Datum: 25/09/2020
 * Groep samenstellen .. 5 min 
+* Voorbeelden die we gevonden hebben (PWA) .. 10 min:
+   - Startbucks: https://appsco.pe/app/starbucks
+   - Twitter
+   - Pinterest
+   - Trivago 
 
 ## Week 2 - 4 uur 5 min
 ** Datum: 28/09/2020 - 04/10/2020
@@ -28,7 +33,7 @@
 ** Datum 05/10/2020 - 11/10/2020
 * Balsamiq downloaden en installeren .. 10 min 
 * Mockup aanmaken om een beter zicht te hebben van hoe onze PWA eruit zou zien aan de hand van wat de week ervoor besproken werd .. 2 uur
-* Mockup aanpassen waar nodig .. 30 min 
+* Mockup aanpassen waar nodig .. 1 uur 30 min 
 * Mockup bespreken .. 15 min
 * Logo ontwerpen + photoshop gebruiken voor de achtergrond .. 20 min 
 * Header, Footer, Home component genereren .. 5 min 
@@ -42,15 +47,19 @@
 * Bespreking van wat we tegen volgende week moeten doen + we hebben bepaald om de database  in firebase te maken .. 20 min 
 * Probleem met het pushen van de code op github (is te zwaar) > we zoeken een oplossing hiervoor (vb; pushen via github desktop, etc) .. 20 min 
 * Firebase in gang zetten .. 10 min 
-* Probleem met github verder onderzoeken en oplossen .. 1 uur
+* Probleem met github on mac laptop verder onderzoeken en oplossen .. 1 uur
 
 ## Week 4 - 13 uur 40 min
 ** 12/10/2020 - 18/10/2020
+* Probleem met github on mac laptop verder onderzoeken en oplossen .. 2 uur
 * video's in verband met angular.cli doornemen om het concept en manier van coderen goed te begrijpen (website: scotch.io) .. 2 uur 
 * firebase met angular linken maar we hebben een probleem ondervonden + geprobeerd om op te lossen ..  1 uur
 * aanpassingen brengen in de login pagina .. 30 min
 * lay-out aanpassen + opzoekwerk voor link .. 30 min 
-* branches aanmaken + het concept ervan begrijpen en uittesten .. 45 min 
+* branches aanmaken + het concept ervan begrijpen en uittesten .. 1 uur 30 min 
+   - Git & Gitgub - branches: https://www.youtube.com/watch?v=QV0kVNvkMxc
+   - Documentatie - about branches: https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches
+   - Branches met github Desktop: https://www.attosol.com/create-and-merge-branches-using-github-desktop-client/
 * meeting met docent + vragen stellen ivm firebase en de branches .. 30 min
 * index files kopieren .. 5 min 
 * routes maken tussen de verschillende pagina's (nog niet af) .. 2 uur  
