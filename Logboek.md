@@ -29,7 +29,7 @@
   - downloaden en installeren van Node.js
   - downloaden en installeren van Angular CLI
 
-## Week 3 - 8 uur 15 min
+## Week 3 - 9 uur 15 min
 ** Datum 05/10/2020 - 11/10/2020
 * Balsamiq downloaden en installeren .. 10 min 
 * Mockup aanmaken om een beter zicht te hebben van hoe onze PWA eruit zou zien aan de hand van wat de week ervoor besproken werd .. 2 uur
@@ -49,7 +49,7 @@
 * Firebase in gang zetten .. 10 min 
 * Probleem met github on mac laptop verder onderzoeken en oplossen .. 1 uur
 
-## Week 4 - 13 uur 40 min
+## Week 4 - 14 uur 25 min
 ** 12/10/2020 - 18/10/2020
 * Probleem met github on mac laptop verder onderzoeken en oplossen .. 2 uur
 * video's in verband met angular.cli doornemen om het concept en manier van coderen goed te begrijpen (website: scotch.io) .. 2 uur 
@@ -98,24 +98,92 @@
    - https://web.dev/meta-description/?utm_source=lighthouse&utm_medium=devtools
  * Components toevoegen (profile & notification) + niet gebruikte components verwijderen + icons toevoegen op de feed pagina + routes toevoegen + layout starten voor notifications, profile & admin + database helemaal uitschetsen en telkens aanpassingen brengen aan de ERD .. 4 uur  
 
- ## Week 8 - 7 uur 
+ ## Week 8 - 7 uur 0 min 
  ** 09/11/2020 - 15/11/2020
  * layout van user profile aanmaken + ervoor zorgen dat een afbeelding vanop de desktop gekozen kan worden, wel nog niet gelukt om de afbeelding te visualiseren + opzoekwerk verricht voor user profile en deels voor notifications .. 3 uur
    - https://academind.com/learn/angular/snippets/angular-image-upload-made-easy/
  * line break element wegwerken door margins te gebruiken in angular + verder werken aan de lay-out (notification, etc) .. 2 uur
  * Opzoekwerk om probleem met firebase te debuggen (werkt nog niet) .. 2 uur 
  
- ## Week 9 - 4 uur  
+ ## Week 9 - 8 uur 0 min
  ** 16/11/2020 - 22/11/2020
- * opzoekwerk verrichten voor firebase + debuggen met Driss (nog niet af) + de lay-out van de registratiepagina wordt niet meer getoond sinds dat we firebase in het project toegevoegd hebben.. 3 uur 
+ * opzoekwerk verrichten voor firebase + debuggen met Driss (nog niet af) + de lay-out van de registratiepagina wordt niet meer getoond sinds dat we firebase in het project toegevoegd hebben.. 5 uur 
     - https://stackoverflow.com/questions/62752050/firebase-commonjs-or-amd-dependencies-can-cause-optimization-bailouts
     - https://stackoverflow.com/questions/62592903/upgrading-to-angular-10-fix-commonjs-or-amd-dependencies-can-cause-optimizatio/62604034#62604034
     - https://stackoverflow.com/questions/55241779/nullinjectorerror-no-provider-for-injectiontoken-angularfire2-app-options
  * bug fixed (path) + lay-out updaten .. 1 uur 
     - https://stackoverflow.com/questions/51035096/error-in-multi-styles-css-in-angular-6
     - https://stackoverflow.com/questions/42341927/font-awesome-icon-size-not-increasing/42341987#:~:text=font%2Dawesome%20icons%20are%20texts,size%20of%20font%2Dawesome%20icons.&text=.io%2Fexamples%2F-,To%20increase%20icon%20sizes%20relative%20to%20their%20container%2C%20use%20the,%2C%20or%20fa%2D5x%20classes.
-    
-## W10
+ * call om te weten wat we eerst afwerken, en besloten om een structuur in onze project te zetten door folders (user not logged in en user logged in) aan te maken en hierin de componenten te genereren ... 2 uur 
+ 
+## Week 10 - 1 uur 0 min 
+** 23/11/2020 .. 29/11/2020
 * bugs oplossen angular material + path authentcation service :
     - https://stackoverflow.com/questions/48560479/angular-material-progress-spinner-and-progress-bar-doesnt-show
-# Totale duur : 62 uur 25 minuten
+    
+## Week 11 - 3 uur 0 min 
+** 30/11/2020 - 06/12/2020
+* Aanpassingen & uitbreiding van de componenten 
+* br wegwerken 
+* SEO verbeteren door bv alt attributen toe te voegen 
+* update editprofile 
+* onnodige componenten verwijderen (header & footer) 
+* icons op de feed toevoegen 
+* routes 
+
+## Week 12 - 0 uur 
+** 07/12/2020 - 13/12/2020
+* Handige URL voor storage: https://firebase.google.com/docs/storage
+
+## Week 13 - 0 uur 
+** 14/12/2020 - 20/12/2020
+* Examen Sales (16/12)
+* Examen Entrepreneurial skills (18/12)
+* Examen Digital marketing (18/12) 
+
+## Week 14 - 5 uur 0 min 
+** 21/12/2020 - 27/12/2020
+* update layout:
+   - menu; was raar, probleem onderzoeken en een poging tot oplossen .. 2 uur 
+   - feed: img + icons + descr 
+   - notification: examples getoond met layout 
+   - group: searchbar + title + icon + group description 
+   - profile: buttons responisve maken op mobile 
+* Call om Driss op de hoogte houden dat hij een pull request moet doen vooraleer dat hij codeert 
+
+## Week 15 - 4 uur 30 min
+** 28/12/2020 - 03/01/2021
+* Register
+   - checkbox 
+   - URL (GDPR)
+* SignIn
+   - URL forgot password 
+   - routes
+   - nieuwe component fotgotPassword 
+* Feed
+   - icoon + routes toevoegen die naar een nieuwe component verwijst 
+   - nieuwe component (addPost)
+   - layout + responsive maken
+   - routes om terug te keren naar de feed 
+* Group:
+   - details aangepast
+   - icon toegevoegt => linkt naar AddGroup
+   - layout gemaakt + is responsive
+   - routes
+  
+## Week 16 - 7 uur 45 min
+** 04/01/2021 - 10/01/2021
+* call over de laatste design en wat nog toegevoegd/ aangepast kan worden qua layout .. 1 uur 
+* nieuwe componenten aanmaken (changeEmailAdmin, changePasswordAdmin, deleteAccountAdmin, verifyEmail) .. 5 min 
+* Voor alle nieuwe componenten: .. 4 uur 
+   - layout maken 
+   - layout is op alle componenten responsive (smartphone, laptop/desktop/iPad)
+   - routes aanmakene en toevoegen bij de juiste knoppen, om de navigatie mogelijk te maken 
+* Op alle componenten .. 2 uur 
+   - format text op ale HTML en CSS files (op CSS werkt de key combinatie niet, manueel gedaan) 
+   - onnodige CSS verwijderd 
+   - bij Profile, werden er een paar routes toegevoegd 
+* SEO verbeteren .. 10 min
+* call update layout .. 30 min 
+
+# Totale duur : 89 uur 35 minuten
